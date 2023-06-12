@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.cart-summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-self: flex-end;
+}
+.value {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.checkout-button {
+  border-style: none;
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  color: #ffffff;
+  width: 130px;
+  height: 30px;
+}
